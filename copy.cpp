@@ -20,8 +20,8 @@ class Book
 
 	void Display()
 	{
-		cout << "The name of the author is :"<< Author<<endl;
-		cout <<"The name of the title is :" << Title << endl;
+		cout << "The name of the Author is :"<< Author<<endl;
+		cout <<"The name of the Title is :" << Title << endl;
 	}
 };
 
